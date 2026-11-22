@@ -1,16 +1,14 @@
-## Hi there 👋
+## はじめまして、MOT-LUXです。
+COATCHTECHで、web開発を学習しています。
+自分で企画したwebサービスを公開することが目標です。
 
-<!--
-**MOT-LUX/MOT-LUX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 学習している技術
+- フロントエンド：HTML / CSS / Blade
+- バックエンド：PHP / Laravel
+- データベース：MySQL
+- 開発環境・ツール：Docker / Git / GitHub
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 学習成果物
+COATCHTECH　教材のハンズオンで作成したリポジトリです。
+- [github-collab-practice](https://github.com/MOT-LUX/github-collab-practice)
+  
